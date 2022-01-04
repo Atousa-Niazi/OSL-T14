@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>343</width>
+    <width>349</width>
     <height>484</height>
    </rect>
   </property>
@@ -47,17 +47,17 @@ border-width: 3px;
    <widget class="QLineEdit" name="tb_text_1">
     <property name="geometry">
      <rect>
-      <x>20</x>
+      <x>30</x>
       <y>70</y>
-      <width>311</width>
+      <width>301</width>
       <height>61</height>
      </rect>
     </property>
     <property name="styleSheet">
      <string notr="true">background-color: rgb(53, 61, 77);
+font: 500 40pt &quot;Gill Sans MT Condensed&quot;;
 border-style: solid;
 color: rgb(22, 217, 178);
-font: 700 28pt &quot;Georgia&quot;;
 border-right-color: rgb(0, 176, 164);
 border-left-color: rgb(53, 61, 77);
 border-bottom-color: rgb(53, 61, 77);
@@ -796,7 +796,7 @@ border-width: 3px;
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>343</width>
+     <width>349</width>
      <height>22</height>
     </rect>
    </property>
